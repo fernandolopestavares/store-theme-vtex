@@ -47,7 +47,7 @@
     "props": {
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
-      "text": "**PAGE NOT FOUND**",
+      "text": "**PAGINA NAO EXISTE**",
       "font": "t-heading-1"
     }
   }

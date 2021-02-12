@@ -46,7 +46,7 @@
 
   "rich-text#shelf-title": {
     "props": {
-      "text": "## Summer",
+      "text": "## Summer 2021",
       "blockClass": "shelfTitle"
     }
   },
@@ -96,7 +96,7 @@
 
   "rich-text#link": {
     "props": {
-      "text": "\n**Reach us at**\nwww.vtex.com.br",
+      "text": "\n**Produced by**\nwww.vtex.com.br",
       "blockClass": "link"
     }
   }

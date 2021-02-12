@@ -43,7 +43,7 @@
   },
   "rich-text#deal2": {
     "props": {
-      "text": "One day delivery",
+      "text": "One day",
       "blockClass": "deals"
     }
   },
@@ -79,7 +79,7 @@
   },
   "rich-text#deal4": {
     "props": {
-      "text": "Exclusive deals",
+      "text": "Exclusive",
       "blockClass": "deals"
     }
   }
